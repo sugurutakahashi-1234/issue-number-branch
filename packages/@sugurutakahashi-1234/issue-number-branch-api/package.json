@@ -1,6 +1,6 @@
 {
   "name": "@sugurutakahashi-1234/issue-number-branch-api",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "type": "module",
   "exports": {
     ".": {
